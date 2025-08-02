@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there, I'm Bintang 👋
+
+# 🚀 Python Developer | Blockchain & DeFi Analytics Specialist
+Welcome to my GitHub profile! I'm on an intensive journey to master Python for blockchain and decentralized finance applications. My passion lies at the intersection of data science, financial technology, and blockchain innovation. I love turning complex DeFi data into actionable insights.
+
+
 
 <!--
 **Bintang-Gosal/Bintang-Gosal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
