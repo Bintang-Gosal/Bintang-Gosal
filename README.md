@@ -1,5 +1,3 @@
-## Hi there, I'm Bintang 👋
-
 # 🚀 Python Developer | Blockchain, Web 3, & DeFi Analytics Enthusiast
 Welcome to my GitHub profile! I'm on an intensive journey to master Python for blockchain and decentralized finance applications. My passion lies at the intersection of data science, financial technology, and blockchain innovation. I love turning complex DeFi data into actionable insights.
 
